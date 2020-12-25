@@ -1,0 +1,53 @@
+Depth First Traversal, start = 1
+================================
+
+Visit 1
+Visit 4
+Visit 5
+Visit 7
+Visit 9
+Backup from 9
+Backup from 7
+Backup from 5
+Backup from 4
+Backup from 1
+
+
+Depth First Traversal, start = 2
+================================
+
+Visit 2
+Visit 3
+Visit 4
+Visit 5
+Visit 7
+Visit 9
+Leaving 9
+Leaving 7
+Leaving 5
+Leaving 4
+Visit 6
+Leaving 6
+Visit 8
+Leaving 8
+Leaving 3
+Leaving 2
+
+
+Depth First Traversal, start = 3
+================================
+
+Visit 3
+Visit 4
+Visit 5
+Visit 7
+Visit 9
+Leaving 9
+Leaving 7
+Leaving 5
+Leaving 4
+Visit 6
+Leaving 6
+Visit 8
+Leaving 8
+Leaving 3
